@@ -16,14 +16,14 @@ pagination:
 
 <div class="wrapper">
   <ul class="post-list">
-    <h1>
+    <h2>
       Recent News
-    </h1>
+    </h2>
     {% for post in site.posts limit:3 %}
     <li>
-      <h2>
+      <h3>
 	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
+      </h3>
       <section class="post-excerpt" itemprop="description">
 	<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
       </section>
