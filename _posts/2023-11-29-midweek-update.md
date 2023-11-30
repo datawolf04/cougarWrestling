@@ -11,7 +11,7 @@ We have had a strong week on the mat so far.
 On Monday, we had our first wrestle offs of the season to determine who competes at the meet this week. Congratulations to all of the boys who won their weight classes.
 
 ## Tuesday - Meet vs. Greene County MS
-We traveled to came up a little short (57-46), but we gained some valuable experience! Pictures from the match were shared on the ClassDojo page. Some notable performers:
+We traveled to Greene County MS in Snow Hill, but came up a little short (57-46). Still we gained some valuable experience, and I am proud of how our young men performed! Pictures from the match were shared on the ClassDojo page. Some notable performers:
 
 - Name 1 won the xxx weight class by pin.
 - Name 2 won the xxx weight class by technical fall.
