@@ -3,6 +3,7 @@ layout: default
 pagination: 
   enabled: true
 ---
+
 <div class="home">
 
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
@@ -19,7 +20,7 @@ pagination:
   {% for post in paginator.posts %}
   <li>
     <h2>
-      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
     <section class="post-excerpt" itemprop="description">
       <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
@@ -86,3 +87,4 @@ pagination:
 
 </div>
 </div>
+
