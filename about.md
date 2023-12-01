@@ -6,7 +6,7 @@ main_nav: true
 ---
 
 ## Practice
-Practices are held in the DH Conley HS wrestling room every Monday-Thursday 6pm-7:30pm, unless we have a meet that day.  Also, if Pitt County Schools are not in session, there is no practice. If you cannot be at practice, please email [Coach Howard](garyjhoward04@gmail.com) or call/text him at (###)###-####.
+Practices are held in the DH Conley HS wrestling room every Monday-Thursday 6pm-7:30pm, unless we have a meet that day.  Also, if Pitt County Schools are not in session, there is no practice. If you cannot be at practice, please email [Coach Howard](mailto:garyjhoward04@gmail.com) or call/text him at (###)###-####.
 
 ## Meets
 All meets begin at 4pm.  Home meets are at GR Whitfield.
