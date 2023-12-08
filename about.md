@@ -11,17 +11,17 @@ Practices are held in the DH Conley HS wrestling room every Monday-Thursday 6pm-
 ## Meets
 All meets begin at 4pm.  Home meets are at GR Whitfield.
 
-| Date  | Opponent            | Location          |
-| :---: | :------------------ | :---------------- |
-| 11/28 | Greene County MS    | Away              |
-| 11/29 | North Pitt          | Home              |
-| 12/5  | AG Cox              | Away              |
-| 12/6  | NC Prep             | Away              |
-| 12/12 | North Pitt/PS Jones | Away @ North Pitt |
-| 12/19 | AG Cox/Greene       | Home              |
-| 1/10  | Chocowinity/NC Prep | Away @ Chocowinity|
-| 1/17  | PS Jones/Choco      | Home              |
-|  TBD  | Conference meet     | TBD               |
+| Date  | Opponent            | Location           | Result    |
+|:-----:|:--------------------|:-------------------|-----------|
+| 11/28 | Greene County MS    | Away               | 46-57 (L) |
+| 11/29 | North Pitt          | Home               | 48-45 (W) |
+| 12/5  | AG Cox              | Away               | 50-52 (L) |
+| 12/6  | NC Prep             | Away               | 63-36 (W) |
+| 12/12 | North Pitt/PS Jones | Away @ North Pitt  |           |
+| 12/19 | AG Cox/Greene       | Home               |           |
+| 1/10  | Chocowinity/NC Prep | Away @ Chocowinity |           |
+| 1/17  | PS Jones/Choco      | Home               |           |
+| 2/3   | Conference meet     | North Pitt HS      |           |
 
 ## Weight Classes
 The weight classes that our wrestlers compete in are determined by the PCMSAC and are listed below. The minimum allowed weight is 61 lbs. Otherwise, the number listed is the top weight allowed in the weight class. We are not allowed to round weights down.
