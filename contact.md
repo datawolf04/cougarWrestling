@@ -5,9 +5,8 @@ permalink: /contact/
 main_nav: true
 ---
 
-## [Coach Gary Howard](mailto:garyjhoward04@gmail.com)
-
-Short bio for each coach
+## Coach [Gary Howard](mailto:garyjhoward04@gmail.com)
+Coach Gary Howard is a Sergeant in the Greenville Police Department. He also is an Adjunct Professor at NC Wesleyan University and Pitt Community College. Coach Howard learned to wrestle at DH Conley High School, where he achieved All-State honors in wrestling. Initially, he went out for wrestling so that he could beat up his older brother. 	&#128513; But they never fought again after he learned to wrestle. He enjoys coaching wrestling because, "I like investing in kids. Wrestling gave me so many benefits, and I want to pass them forward."
 
 ## Webmaster: [Steven Wolf](mailto:swolf1981@gmail.com)
 I'm just a parent happy to help the team out. If there are things that you would like to see added to the site, email me (see link above) or use the form below.
